@@ -1,0 +1,13 @@
+.env
+
+data/
+*.csv
+
+credentials/
+*.json
+
+models/
+*.joblib
+
+env/*
+
