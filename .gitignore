@@ -12,3 +12,7 @@ credentials/
 models/
 *.joblib
 env/*
+
+# System Files
+.DS_Store
+**/.DS_Store
